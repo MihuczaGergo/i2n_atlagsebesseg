@@ -1,1 +1,1 @@
-# Sinto Project
+# NOT Sinto Project
